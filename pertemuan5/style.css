@@ -1,0 +1,35 @@
+body {
+    font-family: arial;
+}
+
+h1, h2 {
+    color: lightseagreen;
+}
+
+h2 {
+    font-style: italic;
+}
+
+ul li a {
+    color: pink;
+}
+
+ol li a {
+    color: purple;
+}
+
+#p1 {
+    color: palegreen;
+}
+
+.p2 {
+    color: paleturquoise;
+}
+
+.uwu {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+p.uwu{
+    font-size: 30px;
+}

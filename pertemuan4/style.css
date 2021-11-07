@@ -1,0 +1,7 @@
+body {
+    background-color: lightpink;
+    background-image: url(img/spikes.png);
+    background-repeat: repeat;
+    /* background-position: bottom right; */
+    /* background: color url() position repeat; */
+}

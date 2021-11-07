@@ -1,0 +1,21 @@
+/* belajar mengenai text styling */
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h1 {
+    text-align: center;
+    font-size: 60px;
+    color:rgb(255, 125, 212);
+    text-decoration: underline;
+}
+
+p {
+    text-align: justify;
+    text-indent: 50px;
+    /* word-spacing: 10px; */
+}
+
+a {
+    text-decoration: none;
+    text-transform: capitalize;
+}

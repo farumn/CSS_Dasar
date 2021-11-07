@@ -1,0 +1,34 @@
+.hello:link {
+    color: orange;
+}
+
+.hello:hover {
+    color: pink;
+    font-family: arial;
+    font-size: 30px;
+}
+
+.hello:active{
+    font-weight: bold;
+    font-style: italic;
+}
+
+.hello:visited{
+    color: green;
+}
+
+li:nth-child(odd) a{
+    color: lightgreen;
+}
+
+li:nth-child(even) a:hover{
+    color: lightblue;
+}
+
+p:first-of-type{
+    color: lightgoldenrodyellow;
+}
+
+p:last-of-type{
+    color: indianred;
+}
